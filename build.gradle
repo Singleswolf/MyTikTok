@@ -7,7 +7,7 @@ buildscript {
         google()
         jcenter()
         maven {
-            url 'file:///Users/whensunset/maven-repo/'
+            url 'file:///D:/Android_develop/maven/maven-repository'
         }
     }
     dependencies {
